@@ -1,7 +1,11 @@
 # CTemplate
 
+## Code and header file templates with basic doxygen elements for c language
+
 3rd edition of the library
 
 support C89 and higher editions
 
-code and header file templates with basic doxygen elements for c language
+# Updates
+2025 10 30 extended templates
+<br>
